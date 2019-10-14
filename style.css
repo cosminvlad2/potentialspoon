@@ -1,0 +1,22 @@
+
+	
+.boxOne{
+	background-color:grey;
+	width:100%;
+	height:300px;
+	float:right;
+}
+.boxTwo{
+	background-color:;
+	width:45%;
+	height:300px;
+	border:10px solid black;
+	float:left;
+}
+.boxThree{
+	background-color:;
+	width:45%;
+	height:300px;
+   float:left;
+    border:10px solid orange;
+}	
